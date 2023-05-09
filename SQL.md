@@ -44,3 +44,38 @@
  * SLA : ``` RPO ``` de 5 segundos e ``` RTO ``` de 30 segundos. [RPO/RTO](https://learn.microsoft.com/pt-br/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview?view=azuresql)
 
 
+## Scalability
+
+* SQL elastic pools
+  * Para cenários onde não conseguimos prever a demanda necessária para suprir o funcionamento
+  * Dentro do pool é possível colocar diversos databases dentro dele, e podemos aumentar ou reduzir a qualquer momento
+  * É possível aumentar/diminuir os recursos do pool quando necessário
+  * Escalonamento vertical
+  * Basic:
+    * Pode ser escalado até 5 eDTUs por DB.
+    * Pode ter de 100-1200 eDTUs para utilizar de forma compartilhada no Pool
+  * Standard
+    * Pode ser escalado até 100 eDTUs por DB.
+    * Pode ter de 100-1200 eDTUs para utilizar de forma compartilhada no Pool
+  * Premium
+    * Pode ser escalado até 1000 eDTUs por DB.
+
+  * Calculador [DTU](https://dtucalc.azurewebsites.net/)
+
+
+* Horizontal Scaling by [Sharding](https://learn.microsoft.com/pt-br/azure/azure-sql/database/elastic-scale-introduction?view=azuresql)
+  * Quando você tem diferentes seções de bancos de dados residindo em diferentes partes do mundo
+* Elastic database tools
+  * Para quando você tem uma dependência de ferramentas comerciais ou de integração de dados como Power BI, Cognos, Excel onde a consulta deve ser 
+    realizado uma consulta em multiplos databases
+  * Ele é capaz de fazer consultar, querys em diversos databases segnmentados
+    * Com a ferramenta Elastic database Tools
+
+ * Sharding :
+    * Os dados são dividos horizontalmente e destribuidos em multiplos servidores de DB.
+    * Com uma estrutura de vários servidores, onde cada um tem apenas uma parte do dado e responde somente a consultas relacionadas a essa parte.
+    * Ele tem um Shard map manager que seria um gerenciador que responde por todos os DBs
+
+## Availability
+
+* Por padrão no Azure já tem uma camada básica de alta disponibilidade
