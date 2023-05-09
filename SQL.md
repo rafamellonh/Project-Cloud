@@ -106,3 +106,9 @@
   * Oferece a maior resiliência a falhas usando várias réplicas isoladas
   * Implanta um grupo de disponibilidade sempre ativado usando várias réplicas atualizadas de forma síncrona
 
+* Hyperscale Tier
+  * Projetado para bancos de dados OLTP muito grandes - até 100 TB
+  * Capaz de dimensionar automaticamente o armazenamento e dimensionar a computação
+  * Captura backups instantâneos (usando snapshots)
+  * Restaura em minutos em vez de horas e dias
+  * Amplie ou reduza em tempo real para acomodar as mudanças na carga de trabalho
