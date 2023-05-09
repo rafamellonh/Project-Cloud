@@ -80,7 +80,8 @@
 
 * Por padrão no Azure já tem uma camada básica de alta disponibilidade
 * Temos praticamente duas formas de disponibilidade
-* General Purpose/Standard Tier
+
+* General Purpose/Standard Tier (Azure SQL Database)
   * Trabalha no modelo cluster ```Failvober ```
   * O gerenciamento da estrutura de alta disponibilidade do Azure é gerenciada pelo Azure Service Fabric
   * Ele tem uma réplica principal (uma VM) e mais nós que estão separados, os pairs
@@ -94,7 +95,7 @@
   * Usa nós com capacidade sobressalente para criar novas instâncias do SQL Server
   * 
 
-* Premium/Critical
+* Premium/Critical (Azure SQL Database)
   * Chega a ter até 100% de disponibilidade
   * Trabalha no modelo ``` AlwaysON```, onde todas as instâncias esão ativas e com os dados
   * A parte de dados e de logs estão em todas as máquinas localmente podendo as solicitações serem respondidads por qualquer instância
