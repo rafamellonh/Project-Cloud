@@ -119,3 +119,4 @@
         * É um cache de dados inteligente de baixa latência que minimiza a necessidade de buscar dados de servidores de páginas remotas
     * Log service
     * Storages
+  * Pode ter nodes somente leitura assim podendo apontar aplicações que necessitam somente ler os dados para esses nodes
