@@ -81,6 +81,7 @@
 * Por padrão no Azure já tem uma camada básica de alta disponibilidade
 * Temos praticamente duas formas de disponibilidade
 * General Purpose/Standard Tier
+  * Trabalha no modelo cluster ```Failvober ```
   * O gerenciamento da estrutura de alta disponibilidade do Azure é gerenciada pelo Azure Service Fabric
   * Ele tem uma réplica principal (uma VM) e mais nós que estão separados, os pairs
   * Essas instâncias tem um SSD local onde armazena o tempdb para poder dar agilidade nas transações do banco
@@ -88,5 +89,10 @@
   * O Backup é realizado em um armazenamento standard do Storage account
   * Se a instância principal vier a apresentar falhas e ficar offline, o Service Fabric vai fazer o failover para outra instância que está no failover
   * Com os dados nos Storage accounts, o apontamento na VM será diratamente para o Storage
+
 * Premium/Critical
   * Chega a ter até 100% de disponibilidade
+  * Trabalha no modelo ``` AlwaysON```, onde todas as instâncias esão ativas e com os dados
+  * A parte de dados e de logs estão em todas as máquinas localmente podendo as solicitações serem respondidads por qualquer instância
+  * O Backup é igual ao tier Standard
+    * O Backup é realizado em um armazenamento standard do Storage account
