@@ -44,7 +44,7 @@
  * SLA : ``` RPO ``` de 5 segundos e ``` RTO ``` de 30 segundos. [RPO/RTO](https://learn.microsoft.com/pt-br/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview?view=azuresql)
 
 
-## Scalability
+## [Scalability](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-introduction?view=azuresql)
 
 * SQL elastic pools
   * Para cenários onde não conseguimos prever a demanda necessária para suprir o funcionamento
