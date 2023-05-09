@@ -13,7 +13,7 @@
 
 ## PaaS
 
-* Managed Instances
+* Managed Instances : [Docs](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/?view=azuresql)
   * Single instance
   * Instance Pool
 
@@ -27,10 +27,20 @@
   * Gerenciamento de Failover Groups
   * ``` Segundo a Microsoft, você terá um retorno de 212% após 3 anos ```
 
-* Databases
+
+* Databases : [Docs](https://learn.microsoft.com/pt-br/azure/azure-sql/database/?view=azuresql)
   * SQL Single Database
   * Elastic Pool
 
- * O gerenciamento da infraestrutura é todo voltado para Microsoft (updates de patchs e etc)
+ * O gerenciamento da infraestrutura é minimizado, todo voltado para Microsoft (updates de patchs e etc)
+ * É uma solução PaaS
+ * Não tem integração direta com VNET's
+ * Totalmente Serverless compute
+ * É indicado para ambientes onde o tamanho do banco é acima de 100TB
+ * Autoscaling
+ * Trabalha com ```Single Database``` ou ```Elastic Pool```
+ * Suporta ``` Private Link ```
+ * SLA de ``` 99.995% ```
+ * SLA : ``` RPO ``` de 5 segundos e ``` RTO ``` de 30 segundos. [RPO/RTO](https://learn.microsoft.com/pt-br/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview?view=azuresql)
 
 
