@@ -39,7 +39,7 @@
  * É indicado para ambientes onde o tamanho do banco é acima de 100TB
  * Autoscaling
  * Trabalha com ```Single Database``` ou ```Elastic Pool```
- * Suporta ``` Private Link ```
+ * Suporta [``` Private Link ```](https://learn.microsoft.com/pt-br/azure/private-link/private-link-overview)
  * SLA de ``` 99.995% ```
  * SLA : ``` RPO ``` de 5 segundos e ``` RTO ``` de 30 segundos. [RPO/RTO](https://learn.microsoft.com/pt-br/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview?view=azuresql)
 
