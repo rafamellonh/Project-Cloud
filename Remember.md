@@ -3,3 +3,4 @@
 * Criar forward para 168.63.129.16 à partir do DNS on-premises para que a rede interna atinga o storage por dentro da VPN
 * O plano para o plan do webapp deve ser o V3 premium por causa do autoscale
 * Ter redundancia em tudo que possível
+* É preciso adicioanar o dominio .com.br ao sistema
