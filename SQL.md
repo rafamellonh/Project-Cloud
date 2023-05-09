@@ -89,6 +89,10 @@
   * O Backup é realizado em um armazenamento standard do Storage account
   * Se a instância principal vier a apresentar falhas e ficar offline, o Service Fabric vai fazer o failover para outra instância que está no failover
   * Com os dados nos Storage accounts, o apontamento na VM será diratamente para o Storage
+  * Projetado para cargas de trabalho comuns
+  * Computação e armazenamento equilibrados orientados para o orçamento
+  * Usa nós com capacidade sobressalente para criar novas instâncias do SQL Server
+  * 
 
 * Premium/Critical
   * Chega a ter até 100% de disponibilidade
@@ -96,3 +100,8 @@
   * A parte de dados e de logs estão em todas as máquinas localmente podendo as solicitações serem respondidads por qualquer instância
   * O Backup é igual ao tier Standard
     * O Backup é realizado em um armazenamento standard do Storage account
+  * Projetado para aplicativos OLTP
+  * Alta taxa de transação e baixa latência de E/S
+  * Oferece a maior resiliência a falhas usando várias réplicas isoladas
+  * Implanta um grupo de disponibilidade sempre ativado usando várias réplicas atualizadas de forma síncrona
+
