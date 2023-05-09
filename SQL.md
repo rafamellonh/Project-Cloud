@@ -2,12 +2,13 @@
 
 ## IaaS
 
-* SQL Virtual Machine
+* SQL Virtual Machine : [Docs](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?view=azuresql)
   * A migração direta para o Azure Database é mais complicada devido qualquer tipo de personalização
   * Recomenda-se migrar para Managed Instances
   * É nessário todo o tipo de gerenciamento, EX: Rede, updates do Windows, pacthes do SQL, versões do SQL e também algum tipo de redundância
   * O lado positivo é que você tem acesso total ao SQL podendo fazer todo tipo de modificações pois tem acesso direto ao sistema operacional
   * Facilita o troubleshoot pois temos acesso ao sistema operacional
+  * É possivel utilizar o licenciamento de Software assurance 
 
 ## PaaS
 
