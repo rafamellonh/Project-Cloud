@@ -108,7 +108,12 @@
 
 * Hyperscale Tier
   * Projetado para bancos de dados OLTP muito grandes - até 100 TB
-  * Capaz de dimensionar automaticamente o armazenamento e dimensionar a computação
+  * Capaz de dimensionar automaticamente o armazenamento e dimensionar a computação muito rapidamente
   * Captura backups instantâneos (usando snapshots)
   * Restaura em minutos em vez de horas e dias
   * Amplie ou reduza em tempo real para acomodar as mudanças na carga de trabalho
+  * Todos as partes são separadas e replicadas
+    * Nodes computacionais
+    * Server pages (cache)
+    * Log service
+    * Storages
