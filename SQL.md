@@ -105,6 +105,8 @@
   * Alta taxa de transação e baixa latência de E/S
   * Oferece a maior resiliência a falhas usando várias réplicas isoladas
   * Implanta um grupo de disponibilidade sempre ativado usando várias réplicas atualizadas de forma síncrona
+  * Pode ter nodes somente leitura assim podendo apontar aplicações que necessitam somente ler os dados para esses nodes
+
 
 * Hyperscale Tier/ Business Critical (Azure SQL Database)
   * Projetado para bancos de dados OLTP muito grandes - até 100 TB
@@ -120,3 +122,13 @@
     * Log service
     * Storages
   * Pode ter nodes somente leitura assim podendo apontar aplicações que necessitam somente ler os dados para esses nodes
+
+## Strategy for failover
+
+* Na mesma região - use AlwaysOn Availability Zone com failover para réplicas secundárias
+* Entre regiões - use replicação geográfica e grupos de failover
+* Availability Zone :
+  * Ele vai criar uma réplica do banco dentro da mesma zona (sim, cria uma réplica)
+* Geo-Replication :
+  * Crie um failover groups
+  * Ideal utilizar um traffic manager para entregar o tráfego para região secundária.
