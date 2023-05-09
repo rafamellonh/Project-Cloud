@@ -21,7 +21,11 @@
   * Tem uma facilidade maior para migrações on-premises para cloud
   * Integração direto com o Virtual Network, pode ser integrado diretamente na VNET
   * Pode ser usado como ``` Single Instance ``` ou ```Instance Pool ```
-
+  * É possível ter o gereciamento total do banco mesmo rodando como plataforma
+  * Conectividade com usuários do AD local através do ADConnect
+  * Downtime de quase 0 para a migração
+  * Gerenciamento de Failover Groups
+  * ``` Segundo a Microsoft, você terá um retorno de 212% após 3 anos ```
 
 * Databases
   * SQL Single Database
