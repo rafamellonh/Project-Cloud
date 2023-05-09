@@ -115,5 +115,7 @@
   * Todos as partes são separadas e replicadas
     * Nodes computacionais
     * Server pages (cache)
+      * Usa RBPEX Data Cache : 
+        * É um cache de dados inteligente de baixa latência que minimiza a necessidade de buscar dados de servidores de páginas remotas
     * Log service
     * Storages
