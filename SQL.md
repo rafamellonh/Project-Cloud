@@ -76,6 +76,17 @@
     * Com uma estrutura de vários servidores, onde cada um tem apenas uma parte do dado e responde somente a consultas relacionadas a essa parte.
     * Ele tem um Shard map manager que seria um gerenciador que responde por todos os DBs
 
-## Availability
+## [Availability](https://learn.microsoft.com/pt-br/azure/azure-sql/database/high-availability-sla?view=azuresql&tabs=azure-powershell)
 
 * Por padrão no Azure já tem uma camada básica de alta disponibilidade
+* Temos praticamente duas formas de disponibilidade
+* General Purpose/Standard Tier
+  * O gerenciamento da estrutura de alta disponibilidade do Azure é gerenciada pelo Azure Service Fabric
+  * Ele tem uma réplica principal (uma VM) e mais nós que estão separados, os pairs
+  * Essas instâncias tem um SSD local onde armazena o tempdb para poder dar agilidade nas transações do banco
+  * Os discos de logs e de Data, serão armazenados dentro de um Storage account Premium (geralmente)
+  * O Backup é realizado em um armazenamento standard do Storage account
+  * Se a instância principal vier a apresentar falhas e ficar offline, o Service Fabric vai fazer o failover para outra instância que está no failover
+  * Com os dados nos Storage accounts, o apontamento na VM será diratamente para o Storage
+* Premium/Critical
+  * Chega a ter até 100% de disponibilidade
