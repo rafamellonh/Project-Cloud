@@ -106,7 +106,7 @@
   * Oferece a maior resiliência a falhas usando várias réplicas isoladas
   * Implanta um grupo de disponibilidade sempre ativado usando várias réplicas atualizadas de forma síncrona
 
-* Hyperscale Tier
+* Hyperscale Tier/ Business Critical (Azure SQL Database)
   * Projetado para bancos de dados OLTP muito grandes - até 100 TB
   * Capaz de dimensionar automaticamente o armazenamento e dimensionar a computação muito rapidamente
   * Captura backups instantâneos (usando snapshots)
