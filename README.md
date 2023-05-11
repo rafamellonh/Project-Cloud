@@ -62,3 +62,12 @@ Hoje a Cloud Shoes disponibiliza uma tabela que exibe as médias de acessos refe
 ![](/images/table01.png)
 
 ## Problemas enfrentados
+
+Neste momento, a Cloud Shoes está enfrentando dificuldades relacionadas à estrutura e desempenho de sua carga de trabalho principal, o que resultou em perda de vendas em alguns casos e até mesmo na preferência dos usuários por outras lojas concorrentes. Abaixo alguns de suas principais dificuldades.
+
+* Nota-se períodos de grande lentidão no acesso dos clientes, principalmente para abrir imagens de produtos
+* Em determinados dias, nota-se a falta de recursos em alguns servidores nos horários de picos e durante a madrugada um consumo de menos de 10%, em média
+* Dificuldade em analisar (monitorar) quais são os produtos mais acessados do site e o tempo de resposta nas páginas mais acessadas
+* Problemas de compliance relativo ao equipamento de firewall que publica a aplicação externamente, por não possuir a feature de WAF
+* A equipe da Cloud Shoes precisa realizar um esforço significativo para provisionar novos servidores durante os períodos de pico de acesso e vendas. Além disso, todos os recursos relacionados aos servidores precisam ser excluídos manualmente para liberar o hardware posteriormente.
+* O servidor de integração que executa uma aplicação legada responsável por rodar serviços de processamento assíncrono e integrar dados de compras e NFES com o ERP. Essa aplicação é dependente de serviços do Windows e algumas COM+. Infelizmente, o servidor de integração não possui um balanceamento de carga interno devido à sobrecarga do único balanceador de carga disponível. Atualmente, a empresa está aguardando a compra de um novo balanceador de carga para poder adicionar um novo servidor a esse serviço.
