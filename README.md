@@ -12,11 +12,11 @@
 
 Cloud Shoes é uma empresa do ramo calçadista e se encontra em constante expansão onde tem elevado seu número de clientes e vendas.
 
-Hoje a empresa não possui mais lojas fisícas, somente vendas online. Com isso busca por avanços tecnológicos frequentes, visando melhorar a experiência do cliente final e consequentemente fransformar isso em lucratividade e crescimente da empresa.
+Hoje a empresa não possui mais lojas físicas, somente vendas online. Com isso busca por avanços tecnológicos frequentes, visando melhorar a experiência do cliente final e consequentemente transformar isso em lucratividade e crescimento da empresa.
 
 A Cloud Shoes está visando para o futuro a venda de vestuário, mas no momento tem seu foco exclusivo o calçado. Suas vendas somente no mercado interno brasileiro e não tem uma previsão para possíveis expansões para vendas fora do país.
 
-Seu estrutura conta com :
+Sua estrutura conta com :
 
 * 500  colaboradores
 * 50 fornecedores (terceirizados)
@@ -24,7 +24,7 @@ Seu estrutura conta com :
 * Escritório administrativo em Belo Horizonte 
 * Estrutura de TI (datacenter) em São Paulo
 
-## Insfraestrutura de TI
+## Infraestrutura de TI
 
 A Cloud Shoes hoje detém a seguinte estrutura:
 
@@ -36,7 +36,7 @@ A Cloud Shoes hoje detém a seguinte estrutura:
 * Utiliza sistemas operacionais Windows Server e Linux (Ubuntu Server e RedHat)
 * O banco de dados é SQL Server 2016 Enterprise
 * A empresa possui 2 storages com discos SSD
-* A política de renovação de servidores fisícos é de 5 em 5 anos
+* A política de renovação de servidores físicos é de 5 em 5 anos
 * A última renovação foi realizada em 2020
   
 ## Estrutura de E-commerce
@@ -81,7 +81,7 @@ A Cloud Shoes planeja migrar 70% de suas aplicações para a nuvem nos próximos
 * Reduzir custos relacionados a renovação de servidores e garantia de equipamentos
 * Entregar maior poder de escalabilidade em datas de maior demanda
 * Otimizar o uso de recursos em períodos de baixa demanda
-* Utilizar novos tecnologias que possam melhorar a performance na experiência de acesso, navegação e compra para os usuários finais
+* Utilizar novas tecnologias que melhorem a performance na experiência de acesso, navegação e compra para os usuários finais
 * Reduzir o esforço administrativo da equipe de infraestrutura de servidores
 * Aumentar a segurança relativa à exposição do e-commerce
 * Reduzir o tempo para restore de dados com mais de 15 dias
