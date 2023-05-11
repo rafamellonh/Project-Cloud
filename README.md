@@ -73,3 +73,18 @@ Neste momento, a Cloud Shoes está enfrentando dificuldades relacionadas à estr
 * O servidor de integração que executa uma aplicação legada responsável por rodar serviços de processamento assíncrono e integrar dados de compras e NFES com o ERP. Essa aplicação é dependente de serviços do Windows e algumas COM+. Infelizmente, o servidor de integração não possui um balanceamento de carga interno devido à sobrecarga do único balanceador de carga disponível. Atualmente, a empresa está aguardando a compra de um novo balanceador de carga para poder adicionar um novo servidor a esse serviço.
 * A Cloud Shoes realiza backups de todos os dados da aplicação e do banco de dados em um storage, que são mantidos por 15 dias para permitir uma restauração rápida. Após esse período, esses dados são transferidos para fitas de backup, coletados e armazenados em um cofre externo à estrutura, o que torna mais difícil o processo de restauração de dados com mais de 15 dias.
 * A Cloud Shoes está enfrentando um alto custo de armazenamento para as imagens antigas ou não utilizadas de seu catálogo. Infelizmente, o storage atual não oferece um modelo de disco mais barato para "tierizar" essas imagens, ou seja, movê-las para um nível de armazenamento mais econômico.
+
+## Necessidades da empresa
+
+A Cloud Shoes planeja migrar 70% de suas aplicações para a nuvem nos próximos dois anos como parte de sua estratégia de crescimento. Para essa transição, a empresa optou pelo provedor Azure, devido à sua ampla compatibilidade (90%) com o ambiente Microsoft e à maior familiaridade técnica de sua equipe de infraestrutura, banco de dados e aplicações. A mudança para a nuvem tem como objetivo resolver os desafios enfrentados atualmente pela empresa e garantir maior escalabilidade e eficiência em suas operações.
+
+* Reduzir custos relacionados a renovação de servidores e garantia de equipamentos
+* Entregar mairo poder de escalabilidade em datas de maior demanda
+* Otimizar o uso de recursos em períodos de baixa demanda
+* Utilizar novos tecnologias que possam melhorar a performance na experiência de acesso, navegação e compra para os usuários finais
+* Reduzir o esforço administrativo da equipe de infraestrutura de servidores
+* Aumentar a segurança relativa a exposição do e-commerce
+* Reduzir o tempo para restore de dados com mais de 15 dias
+* Possibilitar no futuro que os clientes realizem autenticação no formato B2C.
+* Maior monitoramento sobre acessos, principais produtos e tempos de respotas
+* Reduzir custos de armazenamento para imagens antigas do catálago (sem uso no momento)
