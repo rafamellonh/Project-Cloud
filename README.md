@@ -34,4 +34,19 @@ A Cloud Shoes hoje detém a seguinte estrutura:
 * A empresa possui 2 storages com discos SSD
 * A política de renovação de servidores fisícos é de 5 em 5 anos
 * A última renovação foi realizada em 2020
-* 
+  
+## Estrutura de E-commerce
+
+Atualmente o principal workload da Cloud Shoes é seu site de E-commerce, é uma aplicação crítica onde é executado todo processo de vendas da empresa.
+
+Sua estrututa está composta pelos seguintes serviços:
+* 4 servidores Windows Server 2019 - Frontend - executando IIS
+* 4 servidores Windows Server 2019 - Backend
+* 2 servidores Windows Server 2016 - SQL Server com Cluster Failover
+* 1 servidor Windows Server 2012 - Serviço de integração com ERP
+* Storage para o catalago de imagens do site com capacidade de 2TB - 70% em uso
+* Storage utilizado para o armazenamento das bases de dados do SQL Server - 60% em uso
+* 1 firewall de borda fazendo o balanceamento de carga para os servidores de frontend
+* 1 balanceador de carga interno compartilhado para todas as aplicações
+
+![](/images/infra.jpg)
