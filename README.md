@@ -21,3 +21,17 @@ Seu estrutura conta com :
 * Estrutura de TI (datacenter) em São Paulo
 
 ## Insfraestrutura de TI
+
+A Cloud Shoes hoje detém a seguinte estrutura:
+
+* Datacenter próprio em sua em São Paulo
+* Possui mais de 10 aplicações rodando para suportar o negócio da empresa
+* Possui aproximadamente 120 servidores de produção ativos
+* Possui aproximadamente 40 servidores de desenvolvimento e homologação ativos
+* Toda a estrutura de servidores é executada sobre virtualização com VMware rodando sobre 10 servidores fisícos
+* Utiliza sistemas operacionais Windows Server e Linux (Ubuntu Server e RedHat)
+* O banco de dados é SQL Server 2016 Enterprise
+* A empresa possui 2 storages com discos SSD
+* A política de renovação de servidores fisícos é de 5 em 5 anos
+* A última renovação foi realizada em 2020
+* 
