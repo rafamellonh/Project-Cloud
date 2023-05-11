@@ -50,3 +50,9 @@ Sua estrututa está composta pelos seguintes serviços:
 * 1 balanceador de carga interno compartilhado para todas as aplicações
 
 ![](/images/infra.jpg)
+
+## Dados estátisticos do E-Commerce
+
+Hoje a Cloud Shoes disponibiliza uma tabela que exibe as médias de acessos referentes aos períodos de venda mais importantes do comércio brasileiro.
+
+![](/images/table01.png)
