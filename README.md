@@ -88,3 +88,12 @@ A Cloud Shoes planeja migrar 70% de suas aplicações para a nuvem nos próximos
 * Possibilitar no futuro que os clientes realizem autenticação no formato B2C.
 * Maior monitoramento sobre acessos, principais produtos e tempos de respotas
 * Reduzir custos de armazenamento para imagens antigas do catálago (sem uso no momento)
+
+## Observações
+
+* Atualmente, a Cloud Shoes ainda não possui estrutura de produção no Azure e mantém apenas uma assinatura PAYG na plataforma, com baixo consumo. No entanto, a empresa já estabeleceu a replicação dos usuários do Active Directory local com o Azure AD, em razão da utilização de serviços do Microsoft 365, como Exchange Online, OneDrive e Teams.
+* Não existe nehuma conexão física entre o ambiente local e o Azure
+* Todos os servidores Windows fazem parte do domínio cloudstore.local, onde existem 2 servidores de Active Directory com zonas de DNS integradas
+* Toda autenticação dos clientes externos para realizar a compra é feita diretamente em uma estrutura do banco de dados SQL Server
+* Toda estrutura  do E-Commerce não possui dependência de outros workloads (execto estrutura de AD e DNS). Apenas o servidor de integração que precisa se comunicar com a estrutura do ERP para transportar dados relativos a vendas e NFEs
+* Nessa etapa do projeto, estimasse a migração somente do workload E-Commerce
