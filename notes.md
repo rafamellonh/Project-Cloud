@@ -14,4 +14,6 @@
 
 # SQL
 
-* @#!Manuela78965@#!
+
+
+* Estrutura de TI (datacenter) em SP
