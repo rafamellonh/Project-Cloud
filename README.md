@@ -60,3 +60,5 @@ Sua estrututa está composta pelos seguintes serviços:
 Hoje a Cloud Shoes disponibiliza uma tabela que exibe as médias de acessos referentes aos períodos de venda mais importantes do comércio brasileiro.
 
 ![](/images/table01.png)
+
+## Problemas enfrentados
