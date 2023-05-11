@@ -1,5 +1,7 @@
 # Cloud Shoes
 
+![](/images/logo.png)
+
 Cloud Shoes é uma empresa do ramo calçadista e se encontra em constante expansão onde tem elevado seu número de clientes e vendas.
 
 Hoje a empresa não possui mais lojas fisícas, somente vendas online. Com isso busca por avanços tecnológicos frequentes, visando melhorar a experiência do cliente final e conseguentemente fransformar isso transformar isso em lucratividade e crescimente do empresa.
