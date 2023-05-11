@@ -1,4 +1,4 @@
-                      # Cloud Shoes
+# Cloud Shoes
 
 ![](/images/logo.png)
 
