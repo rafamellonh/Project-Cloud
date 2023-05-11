@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![](/images/logo.logo.jpg)
+![](/images/logo.jpg)
 
 
 </div>
