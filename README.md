@@ -1,7 +1,11 @@
 # Cloud Shoes
 
+
+<div align="center">
+
 ![](/images/logo.png)
 
+</div>
 
 ## Empresa
 
