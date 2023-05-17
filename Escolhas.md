@@ -13,3 +13,5 @@
 * Redirecionamento de HTTP para HTTPS: 
 * Afinidade de sessão : Com esse recurso é possível manter a conexão do usuário no mesmo servidor.
 * Páginas de erro personalizadas : O Application gateway permite que você personalize páginas de erro ao invés de exibir erros padrões
+* Reescreve cabeçalhos HTTP e URL : Podemos remover conteúdos do cabeçalho, como url, porta e etc... 
+* 
