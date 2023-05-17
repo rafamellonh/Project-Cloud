@@ -12,13 +12,28 @@
 * Roteamento de URL : Com o roteamento baseado em URL é possível rotear o tráfego para pools de backend conforme a URL da requisição, também podendo ter vários aplicativos em seu backend.
 * Redirecionamento de HTTP para HTTPS: 
 * Afinidade de sessão : Com esse recurso é possível manter a conexão do usuário no mesmo servidor.
-* Páginas de erro personalizadas : O Application gateway permite que você personalize páginas de erro ao invés de exibir erros padrões
+* Páginas de erro personalizadas : O Application gateway permite que você personalize páginas de erro ao invés de exibir erros padrões.
 * Reescreve cabeçalhos HTTP e URL : Podemos remover conteúdos do cabeçalho, como url, porta e etc... 
 
 ### Azure Web Service
 
-* O WebAPP, serviço de aplicativo do Azure, é uma oferta pas totalmente gerenciada ppara hospedar aplicativos Web
+* O WebAPP, serviço de aplicativo do Azure, é uma oferta pas totalmente gerenciada ppara hospedar aplicativos Web.
 * Você pode desenvolver usando sua linguagem favorita, tais como Java, PHP, Python, .NET, NET CORE entre outras.
 * Os aplicativos são executados e escalados com facilidade, tanto em ambiente Windows quanto Linux.
-* Possui balanceamento de carga, segurança, dimensionamento automático.
 * Pode ser aplicado em recursos como DevOPs para implantação contiínua. Azure DevOps, GitHub, Docker Hub entre outras fontes.
+* Tem integração com outros serviços do Azure, como banco de dados SQL do Azure, Azure Functions, Azure Storate e também o Azure Active Directory.
+* Disponibilidade: Possui failover automático, replicação geográfica.
+* Possui vários modelos de faturamento.
+
+
+### Azure LoadBalancer 
+
+* O balanceador de carga do Azure opera na camada 4 da camada OSI.
+* Ele distribui os fluxos de entrada que chegam às instâncias do pool de front e backend de forma equilibrada.
+* É possível utilizar ele como externo e interno, mas aqui iremos utilizar ele no modo interno.
+* Distribui os recursos dentro e entre zonas
+* É possível criar regras de outbound para as máquinas virtuais em seu backend
+* Dispoem de verificações de integridade, monitorando a saúde dos recursos.
+* Balanceia as cargas dos fluxo em TCP e UDP
+
+### 
