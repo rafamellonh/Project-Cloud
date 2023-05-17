@@ -1,4 +1,6 @@
-# Azure Application Gateway
+## Breve resumo
+
+### Azure Application Gateway
 
 * O Azure Application Gateway é um balanceador de carga de aplicativo da Microsoft, que fornece vários recursos e benefícios para o gerenciamento, desempenho e segurança de aplicativos web e  atua na camada 7 . Abaixo alguns dos benefícios incluídos no Application Gateway
 
