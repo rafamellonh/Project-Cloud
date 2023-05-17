@@ -43,3 +43,10 @@
 * Fornece alta disponibilidade e resiliência, distribuindo as VMs por zonas de disponibilidaes ou domínios de falha.
 * Todas as VMs são criadas a partir da mesma imagem e da mesma configuraçã odo sistema operacional base.
 * Trabalha em larga escala chegando até 1000 VMs para imagens padrões do Azure e 600 para uma imagem personalizada.
+
+### Azure Application insights
+
+* O Application insights é um serviços de monitoramento e diagnóstico oferecido pela Microsoft do tipo APM que são uteis para monitorar aplicativos desde o desenvolvimento até o teste e à produção.
+* Ele coleta métricas de desempenho em tempo real, como tempo de resposta, taxa de erro e uso de recursos. Com isso, ele permite que você monitore o desempenho do seu aplicativo e identifique gargalos ou áreas de melhoria.
+* Ajuda a identificar problemas nos aplicativos, fornece informações detalhadas.
+* É possível criar alertas com base em métricas de desempenho ou eventos específicos.
