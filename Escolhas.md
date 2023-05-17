@@ -40,4 +40,6 @@
 
 * O VMSS permite criar e gerenciar um grupo de VMs com balanceamento de carga. 
 * O número de instâncias de VM pode aumentar ou diminuir automáticamente conforme a demanda ou agendamento definido.
-* Fornece alta disponibilidade e resiliência, distribuindo as VMs por zonas de disponibilidaes ou domínios de falha
+* Fornece alta disponibilidade e resiliência, distribuindo as VMs por zonas de disponibilidaes ou domínios de falha.
+* Todas as VMs são criadas a partir da mesma imagem e da mesma configuraçã odo sistema operacional base.
+* Trabalha em larga escala chegando até 1000 VMs para imagens padrões do Azure e 600 para uma imagem personalizada.
