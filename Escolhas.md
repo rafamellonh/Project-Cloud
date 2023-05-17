@@ -14,4 +14,11 @@
 * Afinidade de sessão : Com esse recurso é possível manter a conexão do usuário no mesmo servidor.
 * Páginas de erro personalizadas : O Application gateway permite que você personalize páginas de erro ao invés de exibir erros padrões
 * Reescreve cabeçalhos HTTP e URL : Podemos remover conteúdos do cabeçalho, como url, porta e etc... 
-* 
+
+### Azure Web Service
+
+* O WebAPP, serviço de aplicativo do Azure, é uma oferta pas totalmente gerenciada ppara hospedar aplicativos Web
+* Você pode desenvolver usando sua linguagem favorita, tais como Java, PHP, Python, .NET, NET CORE entre outras.
+* Os aplicativos são executados e escalados com facilidade, tanto em ambiente Windows quanto Linux.
+* Possui balanceamento de carga, segurança, dimensionamento automático.
+* Pode ser aplicado em recursos como DevOPs para implantação contiínua. Azure DevOps, GitHub, Docker Hub entre outras fontes.
