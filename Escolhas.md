@@ -31,9 +31,13 @@
 * O balanceador de carga do Azure opera na camada 4 da camada OSI.
 * Ele distribui os fluxos de entrada que chegam às instâncias do pool de front e backend de forma equilibrada.
 * É possível utilizar ele como externo e interno, mas aqui iremos utilizar ele no modo interno.
-* Distribui os recursos dentro e entre zonas
+* Distribui os recursos dentro e entre zonas.
 * É possível criar regras de outbound para as máquinas virtuais em seu backend
 * Dispoem de verificações de integridade, monitorando a saúde dos recursos.
-* Balanceia as cargas dos fluxo em TCP e UDP
+* Balanceia as cargas dos fluxo em TCP e UDP.
 
-### 
+### VMSS - Conjunto de dimensionamento de Máquinas Virtuais
+
+* O VMSS permite criar e gerenciar um grupo de VMs com balanceamento de carga. 
+* O número de instâncias de VM pode aumentar ou diminuir automáticamente conforme a demanda ou agendamento definido.
+* Fornece alta disponibilidade e resiliência, distribuindo as VMs por zonas de disponibilidaes ou domínios de falha
