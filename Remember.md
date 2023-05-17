@@ -4,3 +4,4 @@
 * O plano para o plan do webapp deve ser o V3 premium por causa do autoscale
 * Ter redundancia em tudo que possível
 * É preciso adicioanar o dominio .com.br ao sistema
+* Management group (ti - dev / prod)(office365)
