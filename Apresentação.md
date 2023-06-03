@@ -2,7 +2,9 @@
 
 ## Objetivos
 
-Bem-vindos, senhoras e senhores. Hoje, estou aqui para apresentar a vocês um projeto de grande importância para a nossa empresa. O objetivo desta apresentação é discutir a migração de nossos sistemas e serviços para a computação em nuvem, uma iniciativa estratégica que trará inúmeros benefícios para o nosso negócio.
+Bem-vindos, senhoras e senhores. Hoje, estamos aqui para apresentar a vocês um projeto de grande importância para a Cloud. 
+
+O objetivo desta apresentação é discutir a migração dos sistemas de e-coomerce computação em nuvem da Microsoft Azure, uma iniciativa estratégica que trará inúmeros benefícios para o negócio.
 
 Nossa meta é explicar de forma clara e concisa os motivos pelos quais a migração para a nuvem é essencial para enfrentarmos os desafios atuais, melhorar nossa eficiência operacional e garantir uma vantagem competitiva no mercado.
 
