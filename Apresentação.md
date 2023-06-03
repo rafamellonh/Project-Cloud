@@ -36,7 +36,30 @@ Por fim, a migração para a nuvem nos permite reduzir os custos operacionais, e
 Portanto, a importância da computação em nuvem é clara: ela impulsiona a agilidade, a escalabilidade, a segurança e a redução de custos, permitindo que nossa empresa se mantenha competitiva e atenda às demandas do mercado atual.
 
 
-# 2 - 
+# 2 - Justificativa da migração
 
+## 2.1 - Necessidades e desafios atuais da empresa
+
+Hoje a Cloud Shoes enfrenta uma série de desafios e necessidades que podem ser atendidos pela migração para a computação em nuvem. Alguns desses desafios incluem:
+
+* Escalabilidade limitada: Nossa infraestrutura atual não consegue lidar de forma eficiente com picos de demanda, o que resulta em dificuldades para atender às necessidades dos clientes e acompanhar o crescimento do negócio.
+
+* Custos operacionais elevados: Manter servidores locais e sistemas legados implica altos custos de aquisição, atualização, manutenção e suporte técnico. Precisamos otimizar nossos gastos operacionais sem comprometer a qualidade e a eficiência dos serviços.
+
+* Disponibilidade e continuidade de negócios: É crucial garantir a disponibilidade contínua de nossos serviços e dados, mesmo em situações de falhas de hardware ou desastres naturais. Precisamos de um ambiente resiliente que minimize o tempo de inatividade e nos permita recuperar rapidamente em caso de interrupções.
+
+* Segurança de dados: Proteger nossos dados e informações confidenciais é de extrema importância. Precisamos de uma infraestrutura segura e robusta que ofereça recursos avançados de proteção contra ameaças e acesso não autorizado.
+
+## 2.2 - Vantagens competitivas da adoção da computação em nuvem
+
+A adoção da computação em nuvem nos proporcionará vantagens competitivas significativas em relação aos nossos concorrentes. Algumas vantagens incluem:
+
+Agilidade e velocidade de inovação: A computação em nuvem permite a rápida implantação de novos serviços, aplicativos e recursos, proporcionando uma vantagem estratégica em um mercado em constante evolução.
+
+Flexibilidade e escalabilidade: Com a nuvem, poderemos escalar nossos recursos de TI de acordo com as necessidades do negócio, permitindo uma resposta ágil a mudanças nas demandas do mercado e garantindo uma experiência aprimorada para os clientes.
+
+Redução de custos operacionais: Ao migrar para a nuvem, poderemos eliminar a necessidade de investir em infraestrutura física e reduzir os custos associados à manutenção, atualizações e suporte técnico. Isso nos permitirá realocar recursos financeiros para outras áreas estratégicas do negócio.
+
+Acesso a tecnologias avançadas: A nuvem nos permite aproveitar tecnologias emergentes, como inteligência artificial, aprendizado de máquina e análise de dados em larga escala, fornecendo insights valiosos para melhorar nossos processos de negócios e tomar decisões mais informadas.
 
 
