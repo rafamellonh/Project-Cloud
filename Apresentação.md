@@ -161,4 +161,4 @@ Antes de iniciar a migração, é importante realizar uma avaliação abrangente
   
 * Otimização e refinamento (2 semanas):
   * Ajustes finos na arquitetura na nuvem
-  * Configuração de automações e melhores práticas
+  * Configuração de automações e melhores práticas 
