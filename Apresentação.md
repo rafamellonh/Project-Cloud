@@ -75,3 +75,32 @@ Ao migrar para a computação em nuvem, nossa organização poderá desfrutar de
 * Escalabilidade sob demanda: A capacidade de escalar recursos rapidamente nos permitirá lidar com demandas sazonais, lidar com picos de tráfego e dimensionar os serviços de acordo com as necessidades do negócio.
 
 Ao considerar essas necessidades, vantagens competitivas e benefícios específicos, fica claro que a migração para a nuvem é uma iniciativa estratégica crucial para impulsionar o sucesso e enfrentar os desafios do mercado atual.
+
+
+# 3 - Objetivos específicos 
+
+## 3.1 - Nossos objetivos específicos incluem:
+
+* Migrar os sistemas e serviços não críticos para a nuvem: Identificar e migrar inicialmente os sistemas e serviços de menor complexidade e menor impacto para a nuvem, para adquirir experiência e validar a eficácia da migração.
+
+* Estabelecer uma infraestrutura de nuvem segura e confiável: Implementar as medidas de segurança necessárias na nuvem, como criptografia de dados, gerenciamento de identidade e acesso, e controles de segurança em conformidade com as melhores práticas do setor.
+
+* Testar e otimizar a escalabilidade: Realizar testes de carga e dimensionamento para garantir que a infraestrutura de nuvem seja capaz de lidar com demandas de pico e acompanhar o crescimento do negócio de maneira eficiente.
+
+* Treinar e capacitar a equipe de TI: Proporcionar treinamento adequado para a equipe de TI sobre as tecnologias de nuvem adotadas, garantindo que eles tenham as habilidades necessárias para gerenciar e administrar a nova infraestrutura.
+
+## 3.2 -  Metas e indicadores de sucesso
+
+Para avaliar o sucesso do projeto de migração para a nuvem, estabelecemos as seguintes metas e indicadores:
+
+* Tempo de disponibilidade: Reduzir o tempo de inatividade dos sistemas para menos de 1% por ano, garantindo alta disponibilidade dos serviços para os usuários.
+
+* Economia de custos operacionais: Alcançar uma redução de pelo menos 20% nos custos operacionais relacionados à infraestrutura de TI, incluindo investimentos em servidores, manutenção e suporte técnico.
+
+* Tempo de resposta aos clientes: Diminuir o tempo médio de resposta aos clientes em pelo menos 30% em comparação com o ambiente anterior à migração para a nuvem.
+
+* Nível de segurança: Implementar controles de segurança adequados para alcançar a conformidade com as regulamentações relevantes e garantir um nível de segurança apropriado para os dados e sistemas da empresa.
+
+* Satisfação do usuário: Realizar pesquisas de satisfação do usuário para medir a percepção dos clientes internos e externos em relação à qualidade dos serviços após a migração para a nuvem.
+
+Ao acompanhar e alcançar essas metas e indicadores de sucesso, poderemos avaliar o impacto positivo da migração para a nuvem em nossa empresa e garantir que estejamos alcançando os resultados desejados.
