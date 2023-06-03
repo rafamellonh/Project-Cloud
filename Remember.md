@@ -5,3 +5,4 @@
 * Ter redundancia em tudo que possível
 * É preciso adicioanar o dominio .com.br ao sistema
 * Management group (ti - dev / prod)(office365)
+* Policy MFA
