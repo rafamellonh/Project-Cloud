@@ -3,6 +3,11 @@ a. Objetivo da apresentação
 b. Contexto da migração para a nuvem
 c. Importância da computação em nuvem
 
+Visão geral da computação em nuvem
+a. Definição de cloud computing
+b. Tipos de serviços em nuvem (IaaS, PaaS, SaaS)
+c. Benefícios da migração para a nuvem
+d. Desafios e considerações
 
 Justificativa da migração
 a. Necessidades e desafios atuais da empresa
@@ -60,4 +65,4 @@ b. Benefícios esperados após a migração
 c. Próximos passos e recomendações
 
 Perguntas e Respostas
-a. Espaço para os participantes fazerem perguntas e esclarecerem dúvidas
+a. Espaço para os participantes fazerem perguntas e esclarecerem dúvida
