@@ -54,12 +54,12 @@ Hoje a Cloud Shoes enfrenta uma série de desafios e necessidades que podem ser 
 
 A adoção da computação em nuvem nos proporcionará vantagens competitivas significativas em relação aos nossos concorrentes. Algumas vantagens incluem:
 
-Agilidade e velocidade de inovação: A computação em nuvem permite a rápida implantação de novos serviços, aplicativos e recursos, proporcionando uma vantagem estratégica em um mercado em constante evolução.
+* Agilidade e velocidade de inovação: A migração para o Azure permite a rápida implantação de novos serviços, aplicativos e recursos, proporcionando uma vantagem estratégica em um mercado em constante evolução.
 
-Flexibilidade e escalabilidade: Com a nuvem, poderemos escalar nossos recursos de TI de acordo com as necessidades do negócio, permitindo uma resposta ágil a mudanças nas demandas do mercado e garantindo uma experiência aprimorada para os clientes.
+* Flexibilidade e escalabilidade: Com o Azure, poderemos escalar nossos recursos de TI de acordo com as necessidades do negócio, permitindo uma resposta ágil a mudanças nas demandas do mercado e garantindo uma experiência aprimorada para os clientes.
 
-Redução de custos operacionais: Ao migrar para a nuvem, poderemos eliminar a necessidade de investir em infraestrutura física e reduzir os custos associados à manutenção, atualizações e suporte técnico. Isso nos permitirá realocar recursos financeiros para outras áreas estratégicas do negócio.
+* Redução de custos operacionais: Ao migrar, poderemos eliminar a necessidade de investir em infraestrutura física e reduzir os custos associados à manutenção, atualizações e suporte técnico. Isso nos permitirá realocar recursos financeiros para outras áreas estratégicas do negócio.
 
-Acesso a tecnologias avançadas: A nuvem nos permite aproveitar tecnologias emergentes, como inteligência artificial, aprendizado de máquina e análise de dados em larga escala, fornecendo insights valiosos para melhorar nossos processos de negócios e tomar decisões mais informadas.
+* Acesso a tecnologias avançadas: A migração para o Azure nos permite aproveitar tecnologias emergentes, como inteligência artificial, aprendizado de máquina e análise de dados em larga escala, fornecendo insights valiosos para melhorar nossos processos de negócios e tomar decisões mais informadas.
 
 
