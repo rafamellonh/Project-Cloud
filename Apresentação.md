@@ -104,3 +104,61 @@ Para avaliar o sucesso do projeto de migração para a nuvem, estabelecemos as s
 * Satisfação do usuário: Realizar pesquisas de satisfação do usuário para medir a percepção dos clientes internos e externos em relação à qualidade dos serviços após a migração para a nuvem.
 
 Ao acompanhar e alcançar essas metas e indicadores de sucesso, poderemos avaliar o impacto positivo da migração para a nuvem em nossa empresa e garantir que estejamos alcançando os resultados desejados.
+
+# 4 - Estratégia de migração
+
+## 4.1 - Análise da infraestrutura atual
+
+Antes de iniciar a migração para a nuvem, é necessário realizar uma análise detalhada da infraestrutura atual da empresa. Isso envolve mapear todos os sistemas, aplicativos e serviços existentes, bem como os recursos de hardware e software utilizados. Além disso, é importante avaliar o desempenho, a capacidade e a escalabilidade da infraestrutura atual, identificando possíveis gargalos e áreas de melhoria.
+
+## 4.2 -  Identificação dos sistemas e serviços a serem migrados
+
+Com base na análise da infraestrutura atual, é necessário identificar quais sistemas e serviços serão migrados para a nuvem. É importante considerar fatores como dependências entre os sistemas, necessidades de integração e prioridades de negócios. A equipe responsável pela migração deve trabalhar em estreita colaboração com os stakeholders relevantes para determinar quais sistemas são mais adequados para a migração inicial e quais podem ser migrados posteriormente.
+
+## 4.3 - Plano de migração faseado ou em etapas
+
+Uma estratégia de migração faseada ou em etapas é recomendada para minimizar os riscos e impactos da transição para a nuvem. Isso envolve dividir a migração em fases ou etapas menores, migrando sistemas e serviços em grupos ou por prioridade. Cada fase ou etapa deve ser cuidadosamente planejada, testada e revisada antes de prosseguir para a próxima. Isso permite uma abordagem controlada e incremental, facilitando a resolução de problemas e a mitigação de riscos ao longo do processo de migração.
+
+## 4.4 -  Avaliação de riscos e impactos
+
+Antes de iniciar a migração, é importante realizar uma avaliação abrangente de riscos e impactos. Isso envolve identificar possíveis riscos associados à migração, como perda de dados, interrupção de serviços ou problemas de desempenho. Além disso, é necessário considerar os impactos nas operações diárias da empresa, nos usuários e nos clientes durante o período de transição. Com base nessa avaliação, serão definidas estratégias de mitigação de riscos, planos de contingência e comunicação efetiva para garantir uma migração suave e bem-sucedida para a nuvem.
+
+# 5 - Cronograma de migração
+
+## 5.1 - Fases da migração
+
+* Planejamento e preparação: Nesta fase, serão realizadas análises de requisitos, estudos de viabilidade, seleção de provedor de nuvem, definição da arquitetura proposta e estratégia de migração. Também serão estabelecidos os objetivos, metas e indicadores de sucesso do projeto.
+
+* Migração piloto: Essa fase envolve a migração de um sistema ou serviço piloto para a nuvem. O objetivo é testar e validar a abordagem de migração, identificar desafios e fazer ajustes antes da migração em larga escala.
+
+* Migração em etapas: Nesta fase, os sistemas e serviços identificados serão migrados para a nuvem em etapas ou grupos. Cada etapa seguirá um plano de migração específico, com atividades detalhadas e prazos.
+
+* Testes e validação: Após a migração de cada etapa, serão realizados testes exaustivos para garantir que os sistemas e serviços estejam funcionando corretamente na nuvem. Também serão conduzidos testes de desempenho e de carga para verificar a escalabilidade e a capacidade de resposta.
+
+* Otimização e refinamento: Nesta fase, serão feitos ajustes finos na arquitetura na nuvem, otimizando recursos, configurando automações e implementando melhores práticas. Isso visa maximizar a eficiência operacional e aprimorar o desempenho dos sistemas na nuvem.
+
+## 5.2 - Atividades e prazos estimados
+
+* Planejamento e preparação (4 semanas):
+  * Análise de requisitos e estudos de viabilidade
+  * Seleção do provedor de nuvem
+  * Definição da arquitetura proposta
+  * Estratégia de migração
+  * Migração piloto (2 semanas):
+
+* Migração de um sistema piloto para a nuvem
+Testes e validação do sistema migrado
+Migração em etapas (10 semanas):
+
+Identificação dos sistemas e serviços a serem migrados
+Criação de planos de migração para cada etapa
+Migração dos sistemas e serviços em grupos
+Testes e validação após cada migração
+Testes e validação (4 semanas):
+
+Testes de desempenho e carga
+Verificação da escalabilidade e capacidade de resposta
+Otimização e refinamento (2 semanas):
+
+Ajustes finos na arquitetura na nuvem
+Configuração de automações e melhores práticas
