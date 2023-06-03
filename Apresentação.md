@@ -141,24 +141,24 @@ Antes de iniciar a migração, é importante realizar uma avaliação abrangente
 
 * Planejamento e preparação (4 semanas):
   * Análise de requisitos e estudos de viabilidade
-  * Seleção do provedor de nuvem
+  * Seleção do provedor de nuvem (Azure)
   * Definição da arquitetura proposta
   * Estratégia de migração
   * Migração piloto (2 semanas):
 
 * Migração de um sistema piloto para a nuvem
-Testes e validação do sistema migrado
-Migração em etapas (10 semanas):
+  * Testes e validação do sistema migrado
+  * Migração em etapas (10 semanas):
 
-Identificação dos sistemas e serviços a serem migrados
-Criação de planos de migração para cada etapa
-Migração dos sistemas e serviços em grupos
-Testes e validação após cada migração
-Testes e validação (4 semanas):
+* Identificação dos sistemas e serviços a serem migrados
+  * Criação de planos de migração para cada etapa
+  * Migração dos sistemas e serviços em grupos
+  * Testes e validação após cada migração
 
-Testes de desempenho e carga
-Verificação da escalabilidade e capacidade de resposta
-Otimização e refinamento (2 semanas):
-
-Ajustes finos na arquitetura na nuvem
-Configuração de automações e melhores práticas
+* Testes e validação (4 semanas):
+  * Testes de desempenho e carga
+  * Verificação da escalabilidade e capacidade de resposta
+  
+* Otimização e refinamento (2 semanas):
+  * Ajustes finos na arquitetura na nuvem
+  * Configuração de automações e melhores práticas
