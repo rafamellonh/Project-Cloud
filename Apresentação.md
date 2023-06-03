@@ -162,3 +162,110 @@ Antes de iniciar a migração, é importante realizar uma avaliação abrangente
 * Otimização e refinamento (2 semanas):
   * Ajustes finos na arquitetura na nuvem
   * Configuração de automações e melhores práticas 
+
+# 6 - Gerenciamento da mudança
+
+## 6.1 - Comunicação interna sobre a migração
+
+Para o gerenciamento da mudança, é fundamental realizar uma comunicação interna eficaz, por meio de diversos canais, informando os colaboradores sobre a migração para a nuvem. Isso inclui abordar os motivos, benefícios, cronograma, etapas e impacto nas atividades diárias, além de fornecer um canal aberto para perguntas e preocupações.
+
+## 6.2 - Treinamento e capacitação dos colaboradores
+
+Um aspecto crítico do gerenciamento da mudança é garantir que os colaboradores estejam preparados e capacitados para utilizar os novos sistemas e processos na nuvem. Isso pode envolver a realização de treinamentos presenciais ou online, workshops, tutoriais e materiais de apoio. O treinamento deve abranger os aspectos técnicos da nuvem, bem como as mudanças nos fluxos de trabalho e nas ferramentas utilizadas. É importante oferecer suporte contínuo após o treinamento, para que os colaboradores possam tirar dúvidas e se adaptar às novas práticas.
+
+## 6.3 - Adaptação de processos e procedimentos
+
+A migração para a nuvem pode exigir ajustes nos processos e procedimentos existentes. É importante analisar e adaptar os fluxos de trabalho para aproveitar ao máximo os recursos e as funcionalidades da nuvem. Isso pode envolver a revisão de políticas de segurança, implementação de novos controles de acesso, automatização de tarefas, redefinição de responsabilidades e ajustes nas rotinas operacionais. A equipe responsável pelo gerenciamento da mudança deve trabalhar em estreita colaboração com os departamentos afetados para identificar as áreas que precisam ser ajustadas e garantir uma transição suave e eficiente para a nuvem.
+
+
+# 7 - Orçamento e ROI (Retorno sobre Investimento)
+
+## 7.1 - Investimento inicial da migração
+
+O investimento inicial da migração para a nuvem envolve os custos associados à preparação, planejamento e execução do projeto. Isso pode incluir a contratação de especialistas em nuvem, consultorias, treinamento da equipe, aquisição de ferramentas e software necessários, além de possíveis taxas de provedor de nuvem. Também é importante considerar os custos de migração de dados, integração de sistemas e possíveis interrupções temporárias nas operações durante o processo de migração.
+
+## 7.2 - Custos operacionais na nuvem
+
+Os custos operacionais na nuvem referem-se às despesas recorrentes relacionadas à utilização dos serviços e recursos na nuvem. Isso pode incluir taxas de assinatura, uso de armazenamento, poder de processamento, transferência de dados, suporte técnico do provedor de nuvem e possíveis custos adicionais associados a serviços avançados, como segurança e análise de dados. É importante monitorar e otimizar continuamente esses custos, para garantir uma utilização eficiente dos recursos na nuvem
+
+## 7.3 - Economias e ganhos esperados
+
+Ao migrar para a nuvem, é possível obter diversas economias e ganhos esperados. Isso pode incluir a redução de custos com infraestrutura física, como servidores, equipamentos de rede e manutenção. Além disso, a escalabilidade da nuvem permite que os recursos sejam dimensionados de acordo com a demanda, evitando investimentos excessivos em capacidade ociosa. A automação e a eficiência operacional proporcionadas pela nuvem também podem resultar em economias de tempo e esforço da equipe de TI. Além disso, a nuvem oferece a possibilidade de explorar novos modelos de negócios, como a utilização de serviços de análise de dados e inteligência artificial, que podem gerar ganhos adicionais.
+
+## 7.4 - Análise de ROI
+
+A análise de ROI (Retorno sobre Investimento) permite avaliar a efetividade financeira da migração para a nuvem. Ela envolve comparar os custos iniciais e operacionais com os benefícios esperados. A análise deve levar em consideração os custos e benefícios ao longo de um período de tempo, considerando fatores como economias de custos, ganhos de eficiência, aumento da produtividade, redução de tempo de inatividade, melhoria na experiência do usuário e oportunidades de receita adicionais. Com base nessa análise, é possível calcular o ROI esperado e determinar se a migração para a nuvem é um investimento viável e estratégico para a empresa.
+
+# 8 - Riscos e mitigação
+
+## 8.1 - Avaliação de impacto e probabilidade
+
+Avaliar o impacto e a probabilidade de ocorrência de cada risco identificado é essencial para priorizar as ações de mitigação. O impacto pode ser avaliado em termos de prejuízos financeiros, interrupção do serviço, reputação da empresa, entre outros. A probabilidade pode ser classificada em alta, média ou baixa, com base na análise histórica, conhecimento especializado e avaliação das medidas de segurança existentes.
+
+## 8.2 - Plano de mitigação e contingência
+
+Um plano de mitigação e contingência é necessário para minimizar os riscos e garantir que a empresa esteja preparada para lidar com qualquer eventualidade. Algumas medidas de mitigação podem incluir:
+
+* Realizar backups regulares de dados antes, durante e após a migração.
+* Realizar testes de segurança para identificar vulnerabilidades e implementar medidas de proteção adequadas.
+* Estabelecer acordos de nível de serviço (SLAs) com o provedor de nuvem para garantir a qualidade e disponibilidade do serviço.
+* Realizar treinamentos para conscientizar os colaboradores sobre práticas seguras na nuvem e as mudanças nos processos.
+* Implementar estratégias de redundância e recuperação de desastres para minimizar o impacto de possíveis interrupções do serviço.
+
+Lembrando que cada empresa terá riscos específicos relacionados à sua migração para a nuvem, por isso é importante realizar uma análise detalhada e personalizada para identificar os riscos relevantes e desenvolver um plano de mitigação adequado.
+
+# 9 - Considerações finais
+
+## 9.1 - Resumo dos principais pontos abordados
+
+* Nesta apresentação, exploramos a migração para a computação em nuvem como uma estratégia para a empresa. Começamos discutindo o objetivo da apresentação, que é destacar os benefícios e a importância da computação em nuvem.
+
+* Em seguida, apresentamos o contexto da migração, abordando os desafios atuais da empresa e como a computação em nuvem pode ajudar a superá-los. Discutimos a importância da computação em nuvem, incluindo sua flexibilidade, escalabilidade e potencial para impulsionar a inovação.
+
+* Na justificativa da migração, enfatizamos as necessidades e desafios específicos da empresa, destacando como a adoção da computação em nuvem pode fornecer vantagens competitivas, como redução de custos, aumento da eficiência operacional e melhor experiência do cliente.
+
+* Exploramos os objetivos do projeto, tanto os gerais da migração quanto os específicos de curto e longo prazo. Apresentamos metas e indicadores de sucesso que podem ser utilizados para medir o progresso e avaliar o impacto da migração.
+
+* Em seguida, discutimos a estratégia de migração, que inclui a análise da infraestrutura atual, a identificação dos sistemas e serviços a serem migrados, a escolha do modelo de implantação na nuvem, o plano de migração faseado ou em etapas e a avaliação de riscos e impactos.
+
+* Apresentamos a arquitetura proposta na nuvem, destacando a escolha do provedor de nuvem, a seleção de serviços adequados, o dimensionamento de recursos e capacidade, além da segurança e conformidade na nuvem.
+
+* Elaboramos o cronograma de migração, dividindo-o em fases, estabelecendo atividades e prazos estimados, e identificando os recursos necessários. Também destacamos as dependências e interações entre as diferentes etapas do projeto.
+
+* Discutimos o gerenciamento da mudança, abordando a importância da comunicação interna sobre a migração, o treinamento e capacitação dos colaboradores e a adaptação de processos e procedimentos para garantir uma transição suave.
+
+* No aspecto financeiro, apresentamos o orçamento e o ROI, incluindo o investimento inicial da migração, os custos operacionais na nuvem, as economias e ganhos esperados, além da análise de ROI para avaliar a viabilidade do investimento.
+
+* Por fim, destacamos as considerações finais, resumindo os principais pontos abordados, reforçando os benefícios esperados após a migração e fornecendo os próximos passos e recomendações para dar continuidade ao projeto.
+
+## 9.2 - Benefícios esperados após a migração
+
+Após a migração para a nuvem, espera-se que a empresa obtenha diversos benefícios, tais como:
+
+* Redução de custos operacionais: A adoção da nuvem permite evitar altos investimentos em infraestrutura física, reduzindo custos com hardware, manutenção e atualizações.
+
+* Flexibilidade e escalabilidade: A nuvem oferece recursos escaláveis, permitindo que a empresa ajuste rapidamente sua capacidade de acordo com a demanda, evitando a necessidade de superdimensionamento ou subutilização de recursos.
+
+* Maior disponibilidade e continuidade de negócios: Com a migração para a nuvem, a empresa pode se beneficiar de acordos de nível de serviço (SLAs) que garantem alta disponibilidade e recuperação de desastres mais eficiente, minimizando a interrupção do serviço.
+
+* Acesso global e colaboração remota: A nuvem permite o acesso aos recursos e dados da empresa de qualquer lugar do mundo, facilitando a colaboração entre equipes geograficamente distribuídas e promovendo a flexibilidade de trabalho remoto.
+
+* Inovação e agilidade: A computação em nuvem possibilita o rápido desenvolvimento e implantação de novas soluções e serviços, permitindo que a empresa seja mais ágil e competitiva no mercado.
+
+## 9.3 - Próximos passos e recomendações
+
+Para dar continuidade ao projeto de migração para a nuvem, recomendamos:
+
+* Realizar um planejamento detalhado das próximas etapas, levando em consideração o cronograma, as atividades e os recursos necessários.
+
+* Garantir a execução do plano de migração de acordo com as fases estabelecidas, monitorando o progresso e realizando ajustes conforme necessário.
+
+* Promover a comunicação contínua com todas as partes interessadas, informando sobre os avanços, desafios e benefícios da migração.
+
+* Investir no treinamento e capacitação dos colaboradores, garantindo que eles estejam preparados para operar na nova infraestrutura de nuvem.
+
+* Realizar avaliações regulares da segurança e conformidade na nuvem, implementando medidas de mitigação conforme necessário.
+
+* Monitorar e avaliar continuamente os benefícios alcançados após a migração, comparando-os com as expectativas iniciais e realizando ajustes, se necessário.
+
+* Continuar buscando oportunidades de inovação e otimização na nuvem, explorando novos serviços e tecnologias que possam trazer vantagens adicionais para a empresa.
